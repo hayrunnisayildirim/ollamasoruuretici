@@ -1,5 +1,5 @@
 # ollamasoruuretici
-# ollama vs code soru üretici
+# ollama vs code  5 soru üretici
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading

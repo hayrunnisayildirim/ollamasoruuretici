@@ -1,5 +1,12 @@
 # ollamasoruuretici
 # ollama vs code  5 soru üretici
+# ilk önce vs code u indiriyoruz.
+# terminale ls yazıyoruz (yani kodu çağırıyoruz)  çalışmazsa bunu terminale yaz. sudo apt install python3 python3-pip python3-venv python3-tk
+# ardından terminalde indirdiğimiz vs code u açmak için dpkg-i yazıyorum sonra code yazıp tab tuşuna basıyoruz.
+# eğer hata verirse dpkg-i nin başına sudo ekleriz.
+# terminalde python çalıştırıyoruz. vs code dan python ı etkinleştir.
+# sanal makinede github a giriyoruz hocanın yapay zeka kodunu açıyoruz snmp.tkinter.py ye bas kodu indir dosyayı yani.
+# aşağıdaki kodu vs code yapıştırıyoruz.
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading
